@@ -1,6 +1,8 @@
 #if!defined ANIMAZIONE_H
 #define ANIMAZIONE_H
 
+#define _CRT_SECURE_NO_WARNINGS
+
 #include<stdint.h>
 #include<stdlib.h>
 #include<stdio.h>
